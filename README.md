@@ -2,4 +2,4 @@
 this is my first git repository.
 <br>
 
-author - SujaySrivastava
+author - sujay sri
